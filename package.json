@@ -1,0 +1,17 @@
+{
+  "name": "gec_helloworld",
+  "version": "1.0.0",
+  "description": "hello world app to run on google cloud engine",
+  "main": "server.js",
+  "dependencies": {
+    "@google-cloud/storage": "^1.5.1",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "seshasai",
+  "license": "ISC"
+}

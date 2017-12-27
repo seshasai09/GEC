@@ -1,0 +1,7 @@
+{
+  "GCLOUD_PROJECT": "helloworld-gec-1514329914889",
+  "DATA_BACKEND": "datastore",
+  "OAUTH2_CLIENT_ID": "1019463066746-uaensk957777c8sm1kltd7kqlgq69p66.apps.googleusercontent.com",
+  "OAUTH2_CLIENT_SECRET": "x7yE25NeSteQQ4BtcdxrSZTm",
+  "OAUTH2_CALLBACK": "http://localhost:3000/auth/google/callback"
+}
